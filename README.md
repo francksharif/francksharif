@@ -1,6 +1,6 @@
 ## Hi, I'm Franck Sharif
 About me:
-- 👨‍🎓 I'am a graduate at the **Université de Montréal** studying Computer Science
+- 👨‍🎓 I'm a graduate at the **Université de Montréal** studying Computer Science
 - 🛠️ I'm pursuing concentration in **Machine Learning** and **Artificial Intelligence**
 - 🧰 Most of my experience is in **fullstack/backend development** and **machine learning**
 
