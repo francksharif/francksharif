@@ -14,4 +14,4 @@ Experience:
 
 ### Socials
 
- [Linkedin](www.linkedin.com/in/badini-franck)
+ [Linkedin](https://www.linkedin.com/in/badini-franck)
