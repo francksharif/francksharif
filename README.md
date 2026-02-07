@@ -5,6 +5,7 @@ About me:
 - 🧰 Most of my experience is in **fullstack/backend development** and **machine learning**
 
 Experience:
+- Automation & AI Development @ HiloTech
 - AI/ML Intern @ DIRO Université de Montréal
 - Previous Backend Developer @ Faculté de Droit de l'Université de Montréal
 - Previous Fullsack Developer Intern @ Kreezus
